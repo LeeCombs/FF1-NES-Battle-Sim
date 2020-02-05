@@ -1,4 +1,4 @@
-package com.mygdx.ff1sim;
+package com.fractalpixels.ff1sim;
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
