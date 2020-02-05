@@ -1,4 +1,4 @@
-package com.mygdx.ff1sim.desktop;
+package com.fractalpixels.ff1sim.desktop;
 
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
