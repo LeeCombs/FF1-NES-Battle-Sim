@@ -127,6 +127,7 @@ Thumbs.db
 /ios-moe/xcode/native/
 
 ## App specific
-/core/assets/images
+/core/assets/images/monsters
+/core/assets/images/heroes
 /core/assets/music
 /core/assets/sounds
